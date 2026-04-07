@@ -31,7 +31,7 @@ The system maintains attendance data in a structured database and allows users t
 
 * **Programming Language:** Java
 * **Database:** MySQL
-* **IDE:** NetBeans / Eclipse / IntelliJ IDEA
+* **IDE:** VS CODE
 * **GUI:** Java Swing
 * **Connectivity:** JDBC
 
@@ -61,16 +61,11 @@ The system maintains attendance data in a structured database and allows users t
 
 ## 💻 System Requirements
 
-### Hardware
-
-* Minimum **4 GB RAM**
-* **1 GHz Processor**
-
 ### Software
 
 * **Java JDK 8 or above**
 * **MySQL Server**
-* **NetBeans / Eclipse IDE**
+* **vs code IDE**
 * **Windows / Linux OS**
 
 ---
@@ -106,7 +101,7 @@ The **Student Attendance Management System** provides an efficient way to mainta
 
 ---
 
-## 👩‍💻 Author
+
 
 **Student Project – Java Application**
 
